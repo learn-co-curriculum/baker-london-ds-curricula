@@ -1,0 +1,41 @@
+Big Outliner
+
+I. Module 1: Data Science Basics
+	Day One: Environment, Command Line, git
+		AM: INSTALL all software needed
+		PM: CLEAR Github Tutorial (sit n watch)	
+	Day Two: Python Day I
+		AM: Modified Python Fundamentals
+			Strings
+			Intergers
+			Floats
+			Booleans
+			Print Functions
+			Comparisons
+			Lists 
+			Dictionaries
+		PM: Labs??
+	Day Three: Python Day II
+		AM: Modified Fundamentals II 
+			For Loops
+			While Loops
+			Break 
+			Continue
+			Nested Loops
+			Functions
+			Arguments, Parameters
+			Fizzbuzz
+		PM: ???
+	Day Four: Libraries and Numpy
+		;GOAL: Be very good at manipulating data frames
+		AM:
+		
+	Day Five: Pandas Part I 
+	Day Six: Pandas Part II 
+	Day Seven: Pandas Part III
+	Day Eight: Coding Best Practice 
+	Day Nine: Seaborn 
+	Day Ten: Lecture? Free Space? 
+	Scheduling Ideas
+II. Module 2: Data Engineering 
+III. Module 3: Basic Stats

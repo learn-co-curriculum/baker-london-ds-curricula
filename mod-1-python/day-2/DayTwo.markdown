@@ -1,4 +1,6 @@
-# Day One
+# Day Two 
+
+READY TO GO!
 
 Mod Goals:
 
@@ -12,24 +14,23 @@ Mod Goals:
 * [ ] Explain basics of Linear Regression
 * [ ] Interpret Multiple Regression and discuss model validation diagnostics
 
-Day One Goals 
+Day Two: Python Day I
 
-* [ ] Know each other's names
-* [ ] Install and set up Data science curicula 
-* [ ] Find Systems of Support
-* [ ] Familiarize self with Learn.co 
-* [ ] Navigate terminal with basic commands
-* [ ] Explain and execute basic git sequence 
+Be Able to Explain ...
+
+Strings
+Intergers
+Floats
+Booleans
+Print Functions
+Comparisons
+Lists 
+Dictionaries
 
 ## To Make
 
-* Baker Introduction Slides
-* Command Line Basic 
 
 ## Slides Have Tos
 
-* Welcome (it's hard)
-* Cohort Website
-* Goals 
-* Data Science Process
-* Good Questions
+* Bash Scripts
+* Alias 

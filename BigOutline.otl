@@ -26,15 +26,14 @@ I. Module 1: Data Science Basics
 			Arguments, Parameters
 			Fizzbuzz
 		PM: ???
-	Day Four: Libraries and Numpy
+	Day Four: Numpy and Pandas I 
 		;GOAL: Be very good at manipulating data frames
 		AM:
-		
-	Day Five: Pandas Part I 
-	Day Six: Pandas Part II 
-	Day Seven: Pandas Part III
-	Day Eight: Coding Best Practice 
-	Day Nine: Seaborn 
+	Day Five: Pandas Part II 
+	Day Six: Pandas Part III  
+	Day Seven: Matplotlib and Seaborn  
+	Day Eight: Correlation  
+	Day Nine: Linear Regressionear
 	Day Ten: Lecture? Free Space? 
 	Scheduling Ideas
 II. Module 2: Data Engineering 

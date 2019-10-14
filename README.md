@@ -18,6 +18,7 @@ In this repo, we'll find ...
 * [Lesson Starters](https://github.com/learn-co-curriculum/ds-lessons-starter)
 * [DC Example Course](https://github.com/learn-co-students/dc-ds-071519)
 * [Spreadsheet Example](https://docs.google.com/spreadsheets/d/120cCOkRvhCMa8oo-3hmjbUba4QaQEcu1YQQCjCY1nUU/edit#gid=1870704364)
+* [Example London Schedule](https://docs.google.com/spreadsheets/d/1bpTTOXwDwtRujo0cBeAl8rqcTTHQpw2DocH6VPndE5Y/edit?usp=sharing)
 
 ## Module 1
 

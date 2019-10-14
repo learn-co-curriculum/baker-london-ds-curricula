@@ -20,6 +20,8 @@ Day One Goals
 * [ ] Familiarize self with Learn.co 
 * [ ] Navigate terminal with basic commands
 * [ ] Explain and execute basic git sequence 
+	CLONE TOTAL REPO AS A UNIT
+	MAKE SURE THEY KNOW DIFFERNCE BETWEEN CLONE AND PULL
 
 ## To Make
 

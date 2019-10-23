@@ -30,11 +30,125 @@ In this repo, we'll find ...
 * [ ] Perform basic statistical analyses with Python
 * [ ] Use Numpy and Pandas for data manipulation
 * [ ] Be able to perform basic data cleaning with Pandas
-* [ ] Visualize datasets in Python 
-* [ ] Explain basics of Linear Regression
-* [ ] Interpret Multiple Regression and discuss model validation diagnostics
-
+* [ ] Visualize datasets in Python using Matplotlib and Seaborn 
+* [ ] Run and interpret Linear Regression
+* [ ] Communicate Findings in Technical Notebook and Non-Technical Presentation 
+ 
 ### Schedule 
+
+The following reflects general lessons to be covered that day and where to find these materials.
+
+### Pre-Work Checklist 
+
+* Coaches know how feelings work 
+* Check coaches know how attendence, apt-attitude, personal empowerment, establishing culture
+* Get to know coaches strenghts and weaknesses
+
+#### Day 1
+ 
+* Campus Tour and Orientation
+	- Lead Provides Call to Action and tips for doing well 
+* Technical Set Up 
+	- Coaches ensure all students have environment ready to go
+	- Also ensure they read ALL of README (esp learn-co) 
+	- Check git, gitrepo, and ssh linking 
+* Terminal 
+	- How to navigate terminal 
+	- Vi and nano 
+	- Code along 
+	- Establish cohort git repo and how to pull
+	- Example of how we can compare, make own directory for editing
+	- Own Labs (will show how to batch download) 
+
+! Find Materials 
+
+#### Day 2
+
+* Python Fundamentals I 
+	- Ensure that need to know nuts and bolts of python 
+	- Will return to multiple times
+* Decide which Coach will do blog intro and which will do code along 
+
+#### Day 3
+
+* Python Fundamentals II 
+
+* Introduction to Blogs 
+	- Should be Coach A, Coach B does code along
+	- Introduction Blog (why DS) 
+	- Four technical topics later on
+	- Need to communicate in non-technical language
+	- Timed presentations
+	- Make medium account, could be others
+
+#### Day 4
+
+* Libraries, Numpy, Python as Calculator 
+	- Ensure not going to be writing lots of for loops
+	- Number one rule is to not re-invent the wheel
+	- Try to be lazy and effecient 
+	- Idea with NP is that it's faster
+	- Install software with pip 
+	- Can do math operations, fast, with NP 
+* Pandas Lecture I 
+	- Loading in Data
+	- Indexing and why it's important 
+
+#### Day 5
+
+* Pandas II
+	- Loc and Iloc lecture...
+	- Narrative as to why 
+	- Make sure to do lots of review
+* Coach Code Along
+	- First time for Coach to run preliminary anlayses
+	- More important to get across critical thinking
+	- Ask why and what can we then learn from doing descriptive stats
+* Feelings
+	- Start with Coach (remember to set example with professional and personal) 
+	- Lead is last (reflect, support, talk about what is going forward) 
+
+#### Day 6
+
+* Pandas III 
+
+#### Day 7
+
+* Best Practices (Keep Short)
+* Data Visualizations with matplot lib 
+* Blogs I 
+
+#### Day 8
+
+* Linear Regression 101  (Math slides)
+* Linear Regression 103 (Variance, Covariance, Correlation) 
+* Blogs II 
+* Introduce Mod Project and Partners 
+
+#### Day 9
+
+* Blogs III 
+* Seaborn 
+* Linear Regression 103 (Running in Python and Assumptions, Intrepreting)
+
+#### Day 10
+
+* Example Presentation for Blog (Cohort I) 
+* Emphasis on Planning 
+* Most of Day for Work 
+
+#### Day 11 
+
+* Project Work and Support 
+
+#### Day 12 
+
+* Project Work and Support 
+* Project Dry Run 
+
+#### Day 13 
+
+* Project Final Presentations 
 
 ## Module 2
 
